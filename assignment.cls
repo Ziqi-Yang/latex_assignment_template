@@ -52,5 +52,5 @@
     \textbf{#5}
     \end{center}
 
-    \rule{\linewidth}{.6pt}
+    \noindent\rule{\linewidth}{.6pt}
 }
