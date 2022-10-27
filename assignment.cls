@@ -1,3 +1,4 @@
+% https://github.com/Ziqi-Yang/latex_assignment_template
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{assignment}[a latex class for editing your assignment]
 

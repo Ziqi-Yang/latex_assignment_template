@@ -6,7 +6,7 @@ A latex assignment template for Software Engineering Student
 
 ![screenshot](./assets/screenshot.png)
 
-[preview the pdf](main.pdf)  
+[preview pdf](main.pdf)  
 
 ## Feature
 
@@ -18,10 +18,14 @@ use class, not `tex` file template, which makes your `main.tex` file tidy.
 
 - easy to make your own template based on it
 
+## Download
+
+[assignment.cls](https://github.com/Ziqi-Yang/latex_assignment_template/releases/download/v1.0.0/assignment.cls)
+
 
 ## Usage
 
-Just put `assignment.cls` file into your latex workspace.  
+Just put `assignment.cls` file into your latex workspace root.  
 
 First define your document class as `assignment`:  
 
@@ -38,7 +42,7 @@ Then use `assignmentTitle` command to create a banner for your assignment
 \end{document}
 ```
 
-One simple example is [](main.tex) document
+One simple example is the [main.tex](main.tex) document
 
 
 ## Predefined Commands
