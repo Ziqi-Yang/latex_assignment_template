@@ -1,4 +1,6 @@
 # latex processing file
+.auctex-auto
+
 *.acn
 *.acr
 *.alg

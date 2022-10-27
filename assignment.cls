@@ -28,8 +28,8 @@
     identifierstyle = \bfseries\color{black},
     stringstyle     = \bfseries\color{ForestGreen},
     commentstyle    = \bfseries\color{Violet},
-    breaklines      =   true,   % 自动换行，
-    columns         =   fixed,  %字间距就不固定很丑，必须加
+    breaklines      =   true,
+    columns         =   fixed,
     basewidth       =   .5em,
     backgroundcolor=\color{Gray!5},
     tabsize=2,
