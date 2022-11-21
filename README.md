@@ -20,8 +20,8 @@ use class, not `tex` file template, which makes your `main.tex` file tidy.
 
 ## Download
 
-[assignment.cls](https://github.com/Ziqi-Yang/latex_assignment_template/releases/download/v1.0.0/assignment.cls)
-
+just download the `assignment.cls` file.  
+Alternatively, download the whole demo project using the green `code` button above(`code` -> `Download Zip`) or `git`.
 
 ## Usage
 
