@@ -8,6 +8,7 @@
 \RequirePackage[dvipsnames]{xcolor}
 \RequirePackage{listings}
 \RequirePackage{tcolorbox}
+\RequirePackage{caption}
 
 \setlength{\textwidth}{6.5in}
 \setlength{\textheight}{9.in}
@@ -36,6 +37,14 @@
     tabsize=2,
     showspaces=false,
     showstringspaces=false,
+}
+
+\DeclareCaptionFormat{myformat}{%
+  \colorbox{orange!40}{\large\ttfamily\bfseries#3}
+}
+\captionsetup[lstlisting]{
+  format=myformat, % format
+  justification=raggedright,singlelinecheck=false % left
 }
 
 \newcommand{\assignmentTitle}[5]{
